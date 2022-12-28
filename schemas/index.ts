@@ -1,2 +1,4 @@
 import testimonial from './testimonial'
-export const schemaTypes = [testimonial]
+import abouts from './abouts'
+
+export const schemaTypes = [testimonial,abouts]
